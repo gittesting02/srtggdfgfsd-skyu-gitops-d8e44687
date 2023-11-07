@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: srtggdfgfsd-dev
+  labels:
+    environment-id: env_0060d5cf-c046-4a4c-a260-32ae21a7c44c
+    project-id: project_079e25d1-8824-49b1-8556-72fc4f665ad3
+    project-name: srtggdfgfsd
+    environment-name: dev
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
